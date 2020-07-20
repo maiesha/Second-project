@@ -1,0 +1,26 @@
+.head {
+  background-color: #f0fff0;
+}
+.rounded-pill {
+  background-color: #21b573;
+} 
+.card-footer {
+  background-color: white;
+  border: none;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.footer-img {
+  width: 25px;
+}
+.footer-img2 {
+  width: 25px;
+  margin-left: 50px;
+}
+footer {
+  background-color: #282531;
+}
+.table {
+  background-color: #282531 !important;
+}
